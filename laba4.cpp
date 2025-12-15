@@ -3,7 +3,7 @@
 #include <cstring>  // для strstr (работает с c_str())
 #include <vector>   // НЕ используем, но <string> иногда требует его — оставим "на всякий"
 
-// Простое перечисление (не enum class — новичку проще)
+// Простое перечисление (не enum class — новичку проще)  
 enum Priority {
     LOW,     // 0
     MEDIUM,  // 1
