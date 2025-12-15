@@ -25,5 +25,5 @@ int main() {
 
     std::cout << "Количество вхождений подстроки: " << count << std::endl;
 
-    return 0;
+    return 0; 
 }
