@@ -3,7 +3,7 @@
 // шаблон:
 //
 //#include <iostream>
-//#include <cmath> // Подключаем, если нужны мат. функции (sqrt)
+//#include <cmath> // Подключаем, если нужны мат. функции (sqrt)  
 //using namespace std;
 
 //int main() {
